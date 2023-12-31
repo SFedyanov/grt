@@ -1,3 +1,3 @@
-module github.com/SFedyanov/grt/v1.0.0
+module github.com/SFedyanov/grt
 
 go 1.21.5
